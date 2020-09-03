@@ -1,5 +1,4 @@
-//
-// EECS2031 team.c
+
 //
 // Program for maintaining a personal team.
 //
